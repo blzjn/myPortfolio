@@ -27,6 +27,7 @@ a, .btn {
 
 nav, .nav-links {
     display: flex;
+    flex-wrap: nowrap;
 }
 
 nav {
